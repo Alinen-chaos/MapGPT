@@ -4,6 +4,7 @@ MapGPT is an autonomous framework for cartographic mapping with a Large Language
 
 ## Case presentation
 
-<video src="https://github.com/Alinen-chaos/MapGPT/raw/main/demonstration.mp4?raw=true" controls="controls">
-您的浏览器不支持 video 标签。
+<video controls >
+  <source src="demonstration.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
